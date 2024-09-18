@@ -13,3 +13,18 @@ E:\Pol Robledillo\M13 - Proyecto\review_one\review_one\review_one\obj\Debug\net8
 E:\Pol Robledillo\M13 - Proyecto\review_one\review_one\review_one\obj\Debug\net8.0\review_one.pdb
 E:\Pol Robledillo\M13 - Proyecto\review_one\review_one\review_one\obj\Debug\net8.0\review_one.genruntimeconfig.cache
 E:\Pol Robledillo\M13 - Proyecto\review_one\review_one\review_one\obj\Debug\net8.0\ref\review_one.dll
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\bin\Debug\net8.0\review_one.exe
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\bin\Debug\net8.0\review_one.deps.json
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\bin\Debug\net8.0\review_one.runtimeconfig.json
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\bin\Debug\net8.0\review_one.dll
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\bin\Debug\net8.0\review_one.pdb
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.AssemblyInfoInputs.cache
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.AssemblyInfo.cs
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.csproj.CoreCompileInputs.cache
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.sourcelink.json
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.dll
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\refint\review_one.dll
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.pdb
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\review_one.genruntimeconfig.cache
+C:\Users\polro\Desktop\Personal\DAMv\2\Proyecto\EA1\review_one\review_one\review_one\obj\Debug\net8.0\ref\review_one.dll

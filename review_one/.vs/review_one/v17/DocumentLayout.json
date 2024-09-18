@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\",
+  "WorkspaceRootPath": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B67722C5-CBC4-4E6C-AC5B-D2FFE6F40726}|review_one\\review_one.csproj|e:\\pol robledillo\\m13 - proyecto\\review_one\\review_one\\review_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B67722C5-CBC4-4E6C-AC5B-D2FFE6F40726}|review_one\\review_one.csproj|c:\\users\\polro\\desktop\\personal\\damv\\2\\proyecto\\ea1\\review_one\\review_one\\review_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67722C5-CBC4-4E6C-AC5B-D2FFE6F40726}|review_one\\review_one.csproj|solutionrelative:review_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\Program.cs",
               "RelativeDocumentMoniker": "review_one\\Program.cs",
-              "ToolTip": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\Program.cs",
+              "ToolTip": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\Program.cs",
               "RelativeToolTip": "review_one\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T16:32:12.763Z",
               "EditorCaption": ""

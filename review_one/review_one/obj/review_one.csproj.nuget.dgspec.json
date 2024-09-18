@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\review_one.csproj": {}
+    "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\review_one.csproj": {}
   },
   "projects": {
-    "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\review_one.csproj": {
+    "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\review_one.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\review_one.csproj",
+        "projectUniqueName": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\review_one.csproj",
         "projectName": "review_one",
-        "projectPath": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\review_one.csproj",
-        "packagesPath": "C:\\Users\\prof\\.nuget\\packages\\",
-        "outputPath": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\obj\\",
+        "projectPath": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\review_one.csproj",
+        "packagesPath": "C:\\Users\\polro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\polro\\Desktop\\Personal\\DAMv\\2\\Proyecto\\EA1\\review_one\\review_one\\review_one\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\prof\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\polro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
