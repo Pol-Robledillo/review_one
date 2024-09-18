@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67722C5-CBC4-4E6C-AC5B-D2FFE6F40726}|review_one\\review_one.csproj|e:\\pol robledillo\\m13 - proyecto\\review_one\\review_one\\review_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67722C5-CBC4-4E6C-AC5B-D2FFE6F40726}|review_one\\review_one.csproj|solutionrelative:review_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\Program.cs",
+              "RelativeDocumentMoniker": "review_one\\Program.cs",
+              "ToolTip": "E:\\Pol Robledillo\\M13 - Proyecto\\review_one\\review_one\\review_one\\Program.cs",
+              "RelativeToolTip": "review_one\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:32:12.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
