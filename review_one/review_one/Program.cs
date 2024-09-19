@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         const string SelectOptionMessage = "1. Calcular mitjana de notes\n" +
                                            "2. Introduïr ciutats i codis postals\n" +
